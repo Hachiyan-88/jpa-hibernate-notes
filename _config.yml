@@ -1,0 +1,19 @@
+
+theme: minima
+title: JPA / Hibernate 学習メモ
+description: JPA / Hibernateを仕組みから理解するための学習ノート
+
+header_pages:
+  - index.md
+  - 01_jpa_overview.md
+  - 02_entity.md
+  - 03_entity_manager.nd
+  - 04_persistence_context.md
+  - 05_dirty_checking.md
+  - 06_relationship.md
+  - 07_n_plus_one.md
+  - 08_transaction_boundary.md
+  - 09_jpql_and_query_design.md
+  - 10_spring_data_jpa/md
+  - 11_entity_anti_patterns.md
+  - 99_glossary.md
