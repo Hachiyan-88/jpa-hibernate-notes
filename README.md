@@ -1,7 +1,5 @@
 # JPA   /   Hibernate　学習メモ
 
-← [READMEへ戻る](../README.md)
-
 このリポジトリは、
 **JPA / Hibernate を「仕組みから理解し直す」ための学習メモ**です。
 
