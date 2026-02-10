@@ -3,6 +3,9 @@ theme: minima
 title: JPA / Hibernate 学習メモ
 description: JPA / Hibernateを仕組みから理解するための学習ノート
 
+sass:
+  sass_dir: assets/css
+
 header_pages:
   - index.md
   - 01_jpa_overview.md
