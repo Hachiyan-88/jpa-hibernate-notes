@@ -190,7 +190,7 @@ managedUser.setName("Taro");
 
 ## よくある勘違い
 
--setterを呼んだ瞬間にUPDATEされてしまう
+- setterを呼んだ瞬間にUPDATEされてしまう
 → ❌ commit時
 
 - findすれば必ず変更検知される
