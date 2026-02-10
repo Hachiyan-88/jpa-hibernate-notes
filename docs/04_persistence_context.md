@@ -1,6 +1,6 @@
 # 永続化コンテキスト（Persistence Context）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](05_dirty_checking.md) →
 
 ## 永続化コンテキストとは？
 

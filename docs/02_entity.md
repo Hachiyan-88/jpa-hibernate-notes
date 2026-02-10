@@ -1,6 +1,6 @@
 # Entity
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](03_entity_manager.md) →
 
 ## Entityとは
 

@@ -1,7 +1,6 @@
-
 # EntityManager
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](04_persistence_context.md) →
 
 ## EntityManagerとは？
 

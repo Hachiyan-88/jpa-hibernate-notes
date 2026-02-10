@@ -1,6 +1,6 @@
 # 参考資料・リンク集（References）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](99_glossary.md) →
 
 このファイルは、  
 JPA / Hibernate を学習・設計する際に参考にした  

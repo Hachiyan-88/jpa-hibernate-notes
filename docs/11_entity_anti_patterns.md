@@ -1,6 +1,6 @@
 # JPA / Hibernate アンチパターン集（事故例ベース）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](98_references.md) →
 
 ## この資料の目的
 

@@ -1,3 +1,9 @@
+---
+
+layout: default
+
+---
+
 # JPA   /   Hibernate　学習メモ
 
 このリポジトリは、
@@ -32,9 +38,9 @@
 
 | No | 内容 |
 | ---- | ------ |
-| 01 | [JPA全体像](docs/01_jpa_overview.md) |
-| 02 | [Entity](docs/02_entity.md) |
-| 03 | [EntityManager](docs/03_entity_manager.md) |
+| 01 | [JPA全体像](01_jpa_overview.md) |
+| 02 | [Entity](/docs/02_entity.md) |
+| 03 | [EntityManager](/docs/03_entity_manager.md) |
 | 04 | [永続化コンテキスト](docs/04_persistence_context.md) |
 | 05 | [Dirty Checking](docs/05_dirty_checking.md) |
 | 06 | [エンティティ関連](docs/06_relationship.md) |

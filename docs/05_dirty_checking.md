@@ -1,7 +1,6 @@
-
 # 変更検知（Dirty Checking）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](06_relationship.md) →
 
 ## 変更検知とは
 

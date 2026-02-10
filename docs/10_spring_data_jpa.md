@@ -1,6 +1,6 @@
 # Spring Data JPA 実践（Repository設計）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](11_entity_anti_patterns.md) →
 
 ## Spring Data JPAとは
 

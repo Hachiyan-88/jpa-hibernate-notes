@@ -1,6 +1,6 @@
 # N+1問題（N Plus One Problem）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](08_transaction_boundary.md) →
 
 ## N+1問題とは
 

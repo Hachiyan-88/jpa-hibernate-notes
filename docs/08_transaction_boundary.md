@@ -1,6 +1,6 @@
 # トランザクション境界（Transaction Boundary）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](09_jpql_and_query_design.md) →
 
 ## トランザクション境界とは
 

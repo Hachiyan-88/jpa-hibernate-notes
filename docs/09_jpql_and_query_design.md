@@ -1,6 +1,6 @@
 # JPQL とクエリ設計（JPQL & Query Design）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](10_spring_data_jpa.md) →
 
 ## JPQLとは
 

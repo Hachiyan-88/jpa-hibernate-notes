@@ -1,6 +1,6 @@
 # エンティティ間の関連（@OneToMany / @ManyToOne）
 
-← [READMEへ戻る](../README.md)
+← [トップへ戻る](index.md) | [次へ進む](07_n_plus_one.md) →
 
 ## エンティティの関連とは
 

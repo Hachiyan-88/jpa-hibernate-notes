@@ -1,5 +1,7 @@
 # JPA / Hibernate 用語集（Glossary）
 
+← [トップへ戻る](index.md)
+
 このファイルは、  
 JPA / Hibernate 学習中に出てきた用語を  
 **短く・正確に・何度も読み返せる形**でまとめた辞書。
