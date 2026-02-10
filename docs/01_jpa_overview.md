@@ -1,5 +1,7 @@
 # JPAとは何か
 
+← [READMEへ戻る](../README.md)
+
 ## 一言で表すなら・・・
 
 JPA（Java Persistence API）とは

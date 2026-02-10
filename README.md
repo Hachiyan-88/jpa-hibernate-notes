@@ -1,5 +1,7 @@
 # JPA   /   Hibernate　学習メモ
 
+← [READMEへ戻る](../README.md)
+
 このリポジトリは、
 **JPA / Hibernate を「仕組みから理解し直す」ための学習メモ**です。
 
@@ -32,18 +34,18 @@
 
 | No | 内容 |
 | ---- | ------ |
-| 01 | JPA全体像 |
-| 02 | Entity |
-| 03 | EntityManager |
-| 04 | 永続化コンテキスト |
-| 05 | Dirty Checking |
-| 06 | エンティティ関連 |
-| 07 | N+1問題 |
-| 08 | トランザクション境界 |
-| 10 | Spring Data JPA |
-| 11 | アンチパターン集 |
-| 98 | 参考ページ集 |
-| 99 | 用語集 |
+| 01 | [JPA全体像](docs/01_overview.md) |
+| 02 | [Entity](docs/02_entity.md) |
+| 03 | [EntityManager](docs/03_entity_manager.md) |
+| 04 | [永続化コンテキスト](docs/04_persistence_context.md) |
+| 05 | [Dirty Checking](docs/05_dirty_checking.md) |
+| 06 | [エンティティ関連](docs/06_relationship.md) |
+| 07 | [N+1問題](docs/07_n_plus_one.md) |
+| 08 | [トランザクション境界](docs/08_transaction_boundary.md) |
+| 10 | [Spring Data JPA](docs/10_spring_data_jpa.md) |
+| 11 | [アンチパターン集](docs/11_entity_anti_patterns.md) |
+| 98 | [参考ページ集](docs/98_references.md) |
+| 99 | [用語集](docs/99_glossary.md) |
 
 ---
 

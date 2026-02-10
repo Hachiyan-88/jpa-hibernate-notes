@@ -1,5 +1,7 @@
 # JPA / Hibernate アンチパターン集（事故例ベース）
 
+← [READMEへ戻る](../README.md)
+
 ## この資料の目的
 
 * JPA / Hibernate を **なんとなく使って起きがちな事故** を事前に知る

@@ -1,6 +1,8 @@
 
 # EntityManager
 
+← [READMEへ戻る](../README.md)
+
 ## EntityManagerとは？
 
 EntityManager　は、

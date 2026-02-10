@@ -1,5 +1,7 @@
 # Spring Data JPA 実践（Repository設計）
 
+← [READMEへ戻る](../README.md)
+
 ## Spring Data JPAとは
 
 - Springが提供する **JPA操作を簡単にするライブラリ**  
