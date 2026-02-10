@@ -148,6 +148,16 @@ user.setName("Taro");
 - Entityは常に管理されている
 → ❌ managed状態のみ
 
+<div class="warning-box">
+<strong>⚠️ WARNING</strong>  
+永続化コンテキストの状態と  
+DB の状態は常に一致しているとは限りません。
+
+「今DBはこうなっているはず」と思い込むと、  
+挙動が理解できなくなります。
+</div>
+
+
 ---
 
 ← [前へ：EntityManager](03_entity_manager.html)  

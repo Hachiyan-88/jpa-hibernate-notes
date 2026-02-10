@@ -227,6 +227,14 @@ user.getOrders().size();
 
 - LAZY例外は悪 → ❌ 設計ミスのサイン
 
+<div class="warning-box">
+<strong>⚠️ WARNING</strong>  
+Controller に @Transactional を付けると、  
+設計が崩れやすくなります。
+
+基本は Service 層で境界を切るのが安全です。
+</div>
+
 ---
 
 ← [前へ：N+1問題（N Plus One Problem）](07_n_plus_one.html)  

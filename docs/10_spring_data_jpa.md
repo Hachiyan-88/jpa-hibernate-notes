@@ -160,6 +160,15 @@ List<UserDto> dtos = userRepository.findAll().strean()
 - Entityは外に出さずにDTOを返す
 - find / save / deleteの基本CRUDを極力自動利用する
 
+<div class="warning-box">
+<strong>⚠️ WARNING</strong>  
+save() は万能ではありません。
+
+内部で persist / merge が使い分けられるため、  
+Entity の状態を理解していないと  
+意図しない動きになります。
+</div>
+
 ---
 
 ← [前へ：JPQL とクエリ設計（JPQL & Query Design）](09_jpql_and_query_design.html)  

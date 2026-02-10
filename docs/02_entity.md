@@ -64,6 +64,26 @@ public class User {
 
 ---
 
+<div class="note-box">
+<strong>📝 NOTE</strong>  
+Entity はただの POJO に見えますが、  
+JPA によって「永続化のルール」が付与された特別な存在です。
+
+コンストラクタ・equals / hashCode・ライフサイクルを  
+意識せずに書くと、後で不具合につながります。
+</div>
+
+<div class="warning-box">
+<strong>⚠️ WARNING</strong>  
+Entity をそのまま画面表示用や API のレスポンスに使うと、  
+意図しない更新・N+1問題・パフォーマンス劣化の原因になります。
+
+Entity は「永続化の責務」に集中させ、  
+用途ごとに DTO を分けるのが安全です。
+</div>
+
+---
+
 ← [前へ：JPAとは何か](01_jpa_overview.html)  
 → [次へ：EntityManager](03_entity_manager.html)
 

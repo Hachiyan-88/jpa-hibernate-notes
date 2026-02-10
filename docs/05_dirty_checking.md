@@ -68,6 +68,15 @@ public void updateUser() {
 
 👉 比較は **永続化コンテキスト内** で行われる。
 
+<div class="warning-box">
+<strong>⚠️ WARNING</strong>  
+Dirty Checking が働くのは  
+「managed 状態」かつ「トランザクション内」だけです。
+
+条件を満たさないと、  
+変更しても DB には反映されません。
+</div>
+
 ---
 
 ## 重要な前提条件

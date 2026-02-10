@@ -119,6 +119,15 @@ List<User> users = entityManager
 - User と Order を **1回のSQLで取得**
 - N+1が発生しない
 
+<div class="warning-box">
+<strong>⚠️ WARNING</strong>  
+fetch = EAGER にすれば解決、  
+というわけではありません。
+
+逆に不要な JOIN が増えて  
+パフォーマンスが悪化することもあります。
+</div>
+
 ---
 
 ## JOIN FETCH の注意点
