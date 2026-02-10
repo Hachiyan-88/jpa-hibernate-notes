@@ -1,6 +1,8 @@
-# Entity
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](03_entity_manager.md) →
+# Entity
 
 ## Entityとは
 
@@ -59,3 +61,10 @@ public class User {
     private String name;
 }
 ```
+
+---
+
+← [前へ：JPAとは何か](01_jpa_overview.html)  
+→ [次へ：EntityManager](03_entity_manager.html)
+
+🏠 [トップに戻る](index.html)

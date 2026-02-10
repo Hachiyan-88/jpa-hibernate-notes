@@ -1,6 +1,8 @@
-# 永続化コンテキスト（Persistence Context）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](05_dirty_checking.md) →
+# 永続化コンテキスト（Persistence Context）
 
 ## 永続化コンテキストとは？
 
@@ -145,3 +147,10 @@ user.setName("Taro");
 
 - Entityは常に管理されている
 → ❌ managed状態のみ
+
+---
+
+← [前へ：EntityManager](03_entity_manager.html)  
+→ [次へ：変更検知（Dirty Checking）](05_dirty_checking.html)
+
+🏠 [トップに戻る](index.html)

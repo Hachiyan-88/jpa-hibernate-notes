@@ -1,6 +1,8 @@
-# トランザクション境界（Transaction Boundary）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](09_jpql_and_query_design.md) →
+# トランザクション境界（Transaction Boundary）
 
 ## トランザクション境界とは
 
@@ -224,3 +226,10 @@ user.getOrders().size();
 - 付ければ安全 → ❌ 付けすぎも危険
 
 - LAZY例外は悪 → ❌ 設計ミスのサイン
+
+---
+
+← [前へ：N+1問題（N Plus One Problem）](07_n_plus_one.html)  
+→ [次へ：JPQL とクエリ設計（JPQL & Query Design）](09_jpql_and_query_design.html)
+
+🏠 [トップに戻る](index.html)

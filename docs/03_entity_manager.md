@@ -1,6 +1,8 @@
-# EntityManager
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](04_persistence_context.md) →
+# EntityManager
 
 ## EntityManagerとは？
 
@@ -198,3 +200,10 @@ persistしたら即INSERTされる
 User user = new User("Taro");
 entityManager.persist(user);
 ```
+
+---
+
+← [前へ：Entity](02_entity.html)  
+→ [次へ：永続化コンテキスト（Persistence Context](04_persistence_context.html)
+
+🏠 [トップに戻る](index.html)

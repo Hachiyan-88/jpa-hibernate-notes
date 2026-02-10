@@ -1,6 +1,8 @@
-# N+1問題（N Plus One Problem）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](08_transaction_boundary.md) →
+# N+1問題（N Plus One Problem）
 
 ## N+1問題とは
 
@@ -184,3 +186,8 @@ hibernate.default_batch_fetch_size=100
 - findは1回だから大丈夫 → ❌ ループ内アクセスが危険
 
 ---
+
+← [前へ：エンティティ間の関連（@OneToMany / @ManyToOne）](06_relationship.html)  
+→ [次へ：トランザクション境界（Transaction Boundary）](08_transaction_boundary.html)
+
+🏠 [トップに戻る](index.html)

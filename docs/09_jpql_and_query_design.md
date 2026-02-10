@@ -1,6 +1,8 @@
-# JPQL とクエリ設計（JPQL & Query Design）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](10_spring_data_jpa.md) →
+# JPQL とクエリ設計（JPQL & Query Design）
 
 ## JPQLとは
 
@@ -243,3 +245,8 @@ JPQLをif文で組み立てるのは地獄。
 - Entityをそのまま返す → ❌ N+1 & LAZY地雷
 
 ---
+
+← [前へ：トランザクション境界（Transaction Boundary）](08_transaction_boundary.html)  
+→ [次へ：Spring Data JPA 実践（Repository設計）](10_spring_data_jpa.html)
+
+🏠 [トップに戻る](index.html)

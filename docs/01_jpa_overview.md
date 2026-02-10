@@ -1,6 +1,8 @@
-# JPAとは何か
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](02_entity.md) →
+# JPAとは何か
 
 ## 一言で表すなら・・・
 
@@ -28,3 +30,9 @@ JPA（Java Persistence API）とは
 - クラス　⇔　テーブル
 - フィールド　⇔　カラム
 - オブジェクト　⇔　レコード
+
+---
+
+→ [次へ：Entity](02_entity.html)
+
+🏠 [トップに戻る](index.html)

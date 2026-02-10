@@ -1,6 +1,8 @@
-# 変更検知（Dirty Checking）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](06_relationship.md) →
+# 変更検知（Dirty Checking）
 
 ## 変更検知とは
 
@@ -187,3 +189,10 @@ managedUser.setName("Taro");
 
 - mergeすれば安全
 → ❌ 状態管理が分かりづらくなる
+
+---
+
+← [前へ：永続化コンテキスト（Persistence Context）](04_persistence_context.html)  
+→ [次へ：エンティティ間の関連（@OneToMany / @ManyToOne）](06_relationship.html)
+
+🏠 [トップに戻る](index.html)

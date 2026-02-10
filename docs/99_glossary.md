@@ -1,6 +1,8 @@
-# JPA / Hibernate 用語集（Glossary）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md)
+# JPA / Hibernate 用語集（Glossary）
 
 このファイルは、  
 JPA / Hibernate 学習中に出てきた用語を  
@@ -234,3 +236,7 @@ JPAでよくある誤った使い方。
 - 「説明できるか怪しい単語」はここを見る
 - 分からなくなったら1行追記する
 - **育てる前提のファイル**
+
+---
+
+🏠 [トップに戻る](index.html)

@@ -1,6 +1,8 @@
-# エンティティ間の関連（@OneToMany / @ManyToOne）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](07_n_plus_one.md) →
+# エンティティ間の関連（@OneToMany / @ManyToOne）
 
 ## エンティティの関連とは
 
@@ -234,3 +236,10 @@ private List<Order> orders;
 
 - EAGERは便利
 → ❌ 実務では地雷
+
+---
+
+← [前へ：変更検知（Dirty Checking）](05_dirty_checking.md.html)  
+→ [次へ：N+1問題（N Plus One Problem）](07_n_plus_one.html)
+
+🏠 [トップに戻る](index.html)

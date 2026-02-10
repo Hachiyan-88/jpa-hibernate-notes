@@ -1,6 +1,8 @@
-# Spring Data JPA 実践（Repository設計）
+---
+layout: default
+---
 
-← [トップへ戻る](index.md) | [次へ進む](11_entity_anti_patterns.md) →
+# Spring Data JPA 実践（Repository設計）
 
 ## Spring Data JPAとは
 
@@ -157,3 +159,10 @@ List<UserDto> dtos = userRepository.findAll().strean()
 - 必要な時だけ JOIN FETCH / カスタムクエリ
 - Entityは外に出さずにDTOを返す
 - find / save / deleteの基本CRUDを極力自動利用する
+
+---
+
+← [前へ：JPQL とクエリ設計（JPQL & Query Design）](09_jpql_and_query_design.html)  
+→ [次へ：JPA / Hibernate アンチパターン集（事故例ベース）](11_entity_anti_patterns.html)
+
+🏠 [トップに戻る](index.html)
