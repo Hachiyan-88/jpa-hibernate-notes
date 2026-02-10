@@ -39,17 +39,16 @@ layout: default
 | No | 内容 |
 | ---- | ------ |
 | 01 | [JPA全体像](01_jpa_overview.md) |
-| 02 | [Entity](/docs/02_entity.md) |
-| 03 | [EntityManager](/docs/03_entity_manager.md) |
-| 04 | [永続化コンテキスト](docs/04_persistence_context.md) |
-| 05 | [Dirty Checking](docs/05_dirty_checking.md) |
-| 06 | [エンティティ関連](docs/06_relationship.md) |
-| 07 | [N+1問題](docs/07_n_plus_one.md) |
-| 08 | [トランザクション境界](docs/08_transaction_boundary.md) |
-| 10 | [Spring Data JPA](docs/10_spring_data_jpa.md) |
-| 11 | [アンチパターン集](docs/11_entity_anti_patterns.md) |
-| 98 | [参考ページ集](docs/98_references.md) |
-| 99 | [用語集](docs/99_glossary.md) |
+| 02 | [Entity](02_entity.md) |
+| 03 | [EntityManager](03_entity_manager.md) |
+| 04 | [永続化コンテキスト](04_persistence_context.md) |
+| 05 | [Dirty Checking](05_dirty_checking.md) |
+| 06 | [エンティティ関連](06_relationship.md) |
+| 07 | [N+1問題](07_n_plus_one.md) |
+| 08 | [トランザクション境界](08_transaction_boundary.md) |
+| 10 | [Spring Data JPA](10_spring_data_jpa.md) |
+| 11 | [アンチパターン集](11_entity_anti_patterns.md) |
+| 99 | [用語集](99_glossary.md) |
 
 ---
 
